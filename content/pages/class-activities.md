@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Class Activities
 uid: 588b48d5-a339-0347-e6e5-b16b0ec1fe7b
 ---
@@ -46,7 +48,7 @@ EXPERIMENTS
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 1
 {{< tdclose >}}
 {{< tdopen >}}
@@ -145,7 +147,7 @@ Coordinate systems; Gradients; Line and surface integrals ([PDF - 1.4 MB]({{< ba
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 2
 {{< tdclose >}}
 {{< tdopen >}}
@@ -240,7 +242,7 @@ Continuous charge distributions ([PDF]({{< baseurl >}}/resources/solving02))
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 3
 {{< tdclose >}}
 {{< tdopen >}}
@@ -313,7 +315,7 @@ Gauss's law ([PDF]({{< baseurl >}}/resources/solving03))
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 4
 {{< tdclose >}}
 {{< tdopen >}}
@@ -408,7 +410,7 @@ Capacitors ([PDF]({{< baseurl >}}/resources/solving04))
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 5
 {{< tdclose >}}
 {{< tdopen >}}
@@ -465,7 +467,7 @@ Session summary ([PDF]({{< baseurl >}}/resources/summary_w05d2-1))
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 6
 {{< tdclose >}}
 {{< tdopen >}}
@@ -566,7 +568,7 @@ Ampere's law ([PDF]({{< baseurl >}}/resources/solving05))
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 7
 {{< tdclose >}}
 {{< tdopen >}}
@@ -661,7 +663,7 @@ Magnetic fields: Force and torque on a current loop ([PDF]({{< baseurl >}}/resou
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 8
 {{< tdclose >}}
 {{< tdopen >}}
@@ -762,7 +764,7 @@ Mutual inductance and transformers; Inductors ([PDF]({{< baseurl >}}/resources/s
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 9
 {{< tdclose >}}
 {{< tdopen >}}
@@ -825,7 +827,7 @@ Chapter 11: Sections 11.1-11.4 ([PDF - 1.0 MB]({{< baseurl >}}/resources/chap11i
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 10
 {{< tdclose >}}
 {{< tdopen >}}
@@ -888,7 +890,7 @@ RC and RL circuits ([PDF]({{< baseurl >}}/resources/solving08))
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 11
 {{< tdclose >}}
 {{< tdopen >}}
@@ -981,7 +983,7 @@ Driven LRC circuits ([PDF]({{< baseurl >}}/resources/solving09))
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 12
 {{< tdclose >}}
 {{< tdopen >}}
@@ -1074,7 +1076,7 @@ EM radiation ([PDF]({{< baseurl >}}/resources/solving10))
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 13
 {{< tdclose >}}
 {{< tdopen >}}
@@ -1143,7 +1145,7 @@ Chapter 14 ([PDF]({{< baseurl >}}/resources/ch14_inter_diffr))
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 14
 {{< tdclose >}}
 {{< tdopen >}}

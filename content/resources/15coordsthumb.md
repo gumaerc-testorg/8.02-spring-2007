@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-02-physics-ii-electricity-and-magnetism-spring-2007/5c2b91ec91390af74ae9b58980003225_15coordsThumb.jpg
+file: /media/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/5c2b91ec91390af74ae9b58980003225_15coordsThumb.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Visualizations
+parent_type: CourseSection
 resourcetype: Image
 title: 15coordsThumb.jpg
 uid: 5c2b91ec-9139-0af7-4ae9-b58980003225

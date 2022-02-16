@@ -5,8 +5,12 @@ description: 'This resource includes the following topics:
   force on magnetic dipole, Ampere?s law, magnet falling through a ring, jumping ring,
   induction, Faraday?s law of induction, ways to induce emf , maxwell?s equations,
   motors and generators, and electric guitar.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-02-physics-ii-electricity-and-magnetism-spring-2007/35c3c8bf32cec4cdc4decf438572bda8_presentati_w09d1.pdf
+file: /media/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/35c3c8bf32cec4cdc4decf438572bda8_presentati_w09d1.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Class Activities
+parent_type: CourseSection
 resourcetype: Document
 title: presentati_w09d1.pdf
 uid: 35c3c8bf-32ce-c4cd-c4de-cf438572bda8

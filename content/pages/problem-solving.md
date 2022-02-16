@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Problem Solving
 uid: ad9d1a7e-98d0-b1ff-318d-13ddbf7639b1
 ---

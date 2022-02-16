@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-02-physics-ii-electricity-and-magnetism-spring-2007/e38edf6c9eaae1abb5d30435a695d9b4_presentati_w09d2.pdf
+file: /media/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/e38edf6c9eaae1abb5d30435a695d9b4_presentati_w09d2.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Class Activities
+parent_type: CourseSection
 resourcetype: Document
 title: presentati_w09d2.pdf
 uid: e38edf6c-9eaa-e1ab-b5d3-0435a695d9b4

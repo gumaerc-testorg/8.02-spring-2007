@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Visualizations
+parent_type: CourseSection
 parent_uid: ea1fcef1-1143-e57e-2f48-a97bf8747dc2
 title: Electrostatics
 uid: 38dfdd33-7b0a-6965-4336-3b59a5c32899

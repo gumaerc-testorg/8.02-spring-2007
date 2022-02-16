@@ -5,8 +5,12 @@ description: 'This resource includes the following topics:
   action at a distance versus field theory, scalar fields, vector fields, fluid flow,
   gravitational field, electric fields, magnetic field, representations of a vector
   field, summary, solved problems, and additional problems.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-02-physics-ii-electricity-and-magnetism-spring-2007/10cac9d6b5a390de2251ba20a23e8be3_chapter1fields.pdf
+file: /media/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/10cac9d6b5a390de2251ba20a23e8be3_chapter1fields.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Class Activities
+parent_type: CourseSection
 resourcetype: Document
 title: chapter1fields.pdf
 uid: 10cac9d6-b5a3-90de-2251-ba20a23e8be3

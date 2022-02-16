@@ -5,8 +5,12 @@ description: This resource tells to  gain intuition for the behavior of DC circu
   you will be working with an RC circuit. You should carefully consider what would
   change if the capacitor were replaced with an inductor and to calculate the time
   dependent currents in such circuits.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-02-physics-ii-electricity-and-magnetism-spring-2007/6856832edbdd677670094393947e4645_solving08.pdf
+file: /media/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/6856832edbdd677670094393947e4645_solving08.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Problem Solving
+parent_type: CourseSection
 resourcetype: Document
 title: solving08.pdf
 uid: 6856832e-dbdd-6776-7009-4393947e4645

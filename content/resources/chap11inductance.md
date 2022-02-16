@@ -7,8 +7,12 @@ description: 'This resource includes the following topics:
   for the RLC series circuit, appendix 2: stresses transmitted by magnetic fields,
   problem-solving strategies, solved problems, conceptual questions, and additional
   problems.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-02-physics-ii-electricity-and-magnetism-spring-2007/f5c35823a7faac0d893754ab42804e7e_chap11inductance.pdf
+file: /media/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/f5c35823a7faac0d893754ab42804e7e_chap11inductance.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Class Activities
+parent_type: CourseSection
 resourcetype: Document
 title: chap11inductance.pdf
 uid: f5c35823-a7fa-ac0d-8937-54ab42804e7e

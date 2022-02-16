@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Visualizations
+parent_type: CourseSection
 parent_uid: ea1fcef1-1143-e57e-2f48-a97bf8747dc2
 title: Faraday's Law
 uid: ac024811-1c75-46a6-f9a6-435379cca7f3

@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-02-physics-ii-electricity-and-magnetism-spring-2007/6c9f0c20461a551101f2c32b270d73ee_03FRRThumb.jpg
+file: /media/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/6c9f0c20461a551101f2c32b270d73ee_03FRRThumb.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Visualizations
+parent_type: CourseSection
 resourcetype: Image
 title: 03FRRThumb.jpg
 uid: 6c9f0c20-461a-5511-01f2-c32b270d73ee

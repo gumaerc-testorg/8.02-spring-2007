@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-02-physics-ii-electricity-and-magnetism-spring-2007/5d7e921c6ebdba58344bc4510b93f851_01FallingRingThumb.jpg
+file: /media/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/5d7e921c6ebdba58344bc4510b93f851_01FallingRingThumb.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Visualizations
+parent_type: CourseSection
 resourcetype: Image
 title: 01FallingRingThumb.jpg
 uid: 5d7e921c-6ebd-ba58-344b-c4510b93f851

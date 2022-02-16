@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 0daf4987-1459-8983-aa85-5689f242c83b
 ---
@@ -29,7 +32,7 @@ COURSE NOTES
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 1
 {{< tdclose >}}
 {{< tdopen >}}
@@ -89,7 +92,7 @@ Coordinate systems; Gradients; Line and surface integrals
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 2
 {{< tdclose >}}
 {{< tdopen >}}
@@ -137,7 +140,7 @@ Continuous charge distributions
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 3
 {{< tdclose >}}
 {{< tdopen >}}
@@ -182,7 +185,7 @@ Chapter 5 ([PDF - 1.3 MB]({{< baseurl >}}/resources/chap5capacitance))
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 4
 {{< tdclose >}}
 {{< tdopen >}}
@@ -236,7 +239,7 @@ Chapter 5 ([PDF - 1.3 MB]({{< baseurl >}}/resources/chap5capacitance))
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 5
 {{< tdclose >}}
 {{< tdopen >}}
@@ -269,7 +272,7 @@ Exam 1 information
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 6
 {{< tdclose >}}
 {{< tdopen >}}
@@ -323,7 +326,7 @@ Chapter 9: Sections 9.1-9.2 ([PDF - 1.9 MB]({{< baseurl >}}/resources/ch9sourc_b
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 7
 {{< tdclose >}}
 {{< tdopen >}}
@@ -377,7 +380,7 @@ Chapter 9: Sections 9.3-9.4, 9.10.2, 9.11.6, and 9.11.7 ([PDF - 1.9 MB]({{< base
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 8
 {{< tdclose >}}
 {{< tdopen >}}
@@ -431,7 +434,7 @@ Chapter 10 ([PDF]({{< baseurl >}}/resources/cha10faraday_law))
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 9
 {{< tdclose >}}
 {{< tdopen >}}
@@ -464,7 +467,7 @@ Chapter 11: Sections 11.1-11.4 ([PDF - 1.0 MB]({{< baseurl >}}/resources/chap11i
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 10
 {{< tdclose >}}
 {{< tdopen >}}
@@ -497,7 +500,7 @@ Chapter 12 ([PDF]({{< baseurl >}}/resources/cha12ac_circuits))
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 11
 {{< tdclose >}}
 {{< tdopen >}}
@@ -545,7 +548,7 @@ Chapter 13 ([PDF]({{< baseurl >}}/resources/chapte13em_waves))
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 12
 {{< tdclose >}}
 {{< tdopen >}}
@@ -593,7 +596,7 @@ EM radiation
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 13
 {{< tdclose >}}
 {{< tdopen >}}
@@ -626,7 +629,7 @@ Chapter 14 ([PDF]({{< baseurl >}}/resources/ch14_inter_diffr))
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 14
 {{< tdclose >}}
 {{< tdopen >}}

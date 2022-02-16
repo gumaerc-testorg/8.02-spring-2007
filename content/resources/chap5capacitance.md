@@ -6,8 +6,12 @@ description: 'This resource includes the following topics:
   energy in a capacitor, dielectrics, creating electric fields, summary, appendix:
   electric fields hold atoms together, problem-solving strategy: calculating capacitance,
   solved problems, conceptual questions, and additional problems.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-02-physics-ii-electricity-and-magnetism-spring-2007/ba7ba4fb31a34a167dc98bf25904d38a_chap5capacitance.pdf
+file: /media/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/ba7ba4fb31a34a167dc98bf25904d38a_chap5capacitance.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Class Activities
+parent_type: CourseSection
 resourcetype: Document
 title: chap5capacitance.pdf
 uid: ba7ba4fb-31a3-4a16-7dc9-8bf25904d38a

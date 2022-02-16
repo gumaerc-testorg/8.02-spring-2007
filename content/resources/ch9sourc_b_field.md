@@ -6,8 +6,12 @@ description: 'This resource includes the following topics:
   field of a dipole, magnetic materials, summary, appendix 1: magnetic field off the
   symmetry axis of a current loop, appendix 2: helmholtz coils, problem-solving strategies,
   solved problems, conceptual questions, and additional problems.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-02-physics-ii-electricity-and-magnetism-spring-2007/378f66ab154c54f34f58ab72fbcf9414_ch9sourc_b_field.pdf
+file: /media/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/378f66ab154c54f34f58ab72fbcf9414_ch9sourc_b_field.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Class Activities
+parent_type: CourseSection
 resourcetype: Document
 title: ch9sourc_b_field.pdf
 uid: 378f66ab-154c-54f3-4f58-ab72fbcf9414

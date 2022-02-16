@@ -1,12 +1,14 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-02-physics-ii-electricity-and-magnetism-spring-2007/4259f525c31dc40689a4e5a07edc4be0_chp_802t.jpg
+file: /media/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/4259f525c31dc40689a4e5a07edc4be0_chp_802t.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: chp_802t.jpg
 uid: 4259f525-c31d-c406-89a4-e5a07edc4be0

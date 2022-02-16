@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource is on What we Expect from you on the Exam.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-02-physics-ii-electricity-and-magnetism-spring-2007/e79ffda58bef12c243f9c0b5d3954d78_summary_w05d2.pdf
+file: /media/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/e79ffda58bef12c243f9c0b5d3954d78_summary_w05d2.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Class Activities
+parent_type: CourseSection
 resourcetype: Document
 title: summary_w05d2.pdf
 uid: e79ffda5-8bef-12c2-43f9-c0b5d3954d78

@@ -5,8 +5,12 @@ description: 'This resource includes the following topics:
   electric flux, Gauss?s law, conductors, force on a conductor, summary, appendix:
   tensions and pressures, problem-solving strategies, solved problems, conceptual
   questions, and additional problems.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-02-physics-ii-electricity-and-magnetism-spring-2007/b6306257b5c818e4034919c3d8680a70_chapte4gauss_law.pdf
+file: /media/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/b6306257b5c818e4034919c3d8680a70_chapte4gauss_law.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Class Activities
+parent_type: CourseSection
 resourcetype: Document
 title: chapte4gauss_law.pdf
 uid: b6306257-b5c8-18e4-0349-19c3d8680a70

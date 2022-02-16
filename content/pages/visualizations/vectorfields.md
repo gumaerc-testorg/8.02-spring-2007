@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Visualizations
+parent_type: CourseSection
 parent_uid: ea1fcef1-1143-e57e-2f48-a97bf8747dc2
 title: Vector Fields
 uid: c3d903ae-1edf-68e9-21e8-42ecdf1df073

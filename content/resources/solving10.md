@@ -7,8 +7,12 @@ description: This resource tells to introduce the "displacement current" term th
   introducing the Pointing vector and to do a calculation of the rate at which energy
   flows into a capacitor when it is charging, and show that it accounts for the rate
   at which electric energy stored in the capacitor is increasing.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-02-physics-ii-electricity-and-magnetism-spring-2007/7be3a856117cd029124cab269b13e5cf_solving10.pdf
+file: /media/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/7be3a856117cd029124cab269b13e5cf_solving10.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Problem Solving
+parent_type: CourseSection
 resourcetype: Document
 title: solving10.pdf
 uid: 7be3a856-117c-d029-124c-ab269b13e5cf
