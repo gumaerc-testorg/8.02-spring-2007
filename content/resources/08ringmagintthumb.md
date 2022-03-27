@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Visualizations
 parent_type: CourseSection
+parent_uid: ea1fcef1-1143-e57e-2f48-a97bf8747dc2
 resourcetype: Image
 title: 08RingMagIntThumb.jpg
 uid: e512ffca-7aa4-e749-dd6f-cea7f2a8c96c

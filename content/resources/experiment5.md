@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Experiments
 parent_type: CourseSection
+parent_uid: 5b67d4a8-cb63-9758-8148-2c1bb40692c8
 resourcetype: Document
 title: experiment5.pdf
 uid: a4cb17d7-92e6-0dae-1cac-0167fd84366b

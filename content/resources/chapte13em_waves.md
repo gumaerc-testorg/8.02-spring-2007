@@ -14,6 +14,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Class Activities
 parent_type: CourseSection
+parent_uid: 588b48d5-a339-0347-e6e5-b16b0ec1fe7b
 resourcetype: Document
 title: chapte13em_waves.pdf
 uid: 2d2f227e-6fd2-6ee2-5f36-6759e02f03dc

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Class Activities
 parent_type: CourseSection
+parent_uid: 588b48d5-a339-0347-e6e5-b16b0ec1fe7b
 resourcetype: Document
 title: prs_w06d1_qonly.pdf
 uid: 71aaaea8-6eee-5e57-05fd-d950b82cebf0

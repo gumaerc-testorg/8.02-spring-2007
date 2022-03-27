@@ -13,6 +13,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Problem Solving
 parent_type: CourseSection
+parent_uid: ad9d1a7e-98d0-b1ff-318d-13ddbf7639b1
 resourcetype: Document
 title: solving10.pdf
 uid: 7be3a856-117c-d029-124c-ab269b13e5cf

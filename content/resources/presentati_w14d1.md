@@ -13,6 +13,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Class Activities
 parent_type: CourseSection
+parent_uid: 588b48d5-a339-0347-e6e5-b16b0ec1fe7b
 resourcetype: Document
 title: presentati_w14d1.pdf
 uid: 06f0c8a4-6559-1c61-e544-a127cd52600a

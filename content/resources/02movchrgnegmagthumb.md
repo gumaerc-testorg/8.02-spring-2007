@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Visualizations
 parent_type: CourseSection
+parent_uid: ea1fcef1-1143-e57e-2f48-a97bf8747dc2
 resourcetype: Image
 title: 02MovChrgNegMagThumb.jpg
 uid: 6eecb0e4-6405-27a9-3357-0517c65d96ae
