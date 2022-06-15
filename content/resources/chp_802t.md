@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/4259f525c31dc40689a4e5a07edc4be0_chp_802t.jpg
+file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/4259f525c31dc40689a4e5a07edc4be0_chp_802t.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -12,4 +12,6 @@ ocw_type: OCWImage
 resourcetype: Image
 title: chp_802t.jpg
 uid: 4259f525-c31d-c406-89a4-e5a07edc4be0
+video_metadata:
+  youtube_id: null
 ---

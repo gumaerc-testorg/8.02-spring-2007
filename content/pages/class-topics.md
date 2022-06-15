@@ -1,9 +1,12 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics and activities.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Class Topics
 uid: c88cb40f-fffd-4c20-c361-c1647b887b4e
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
