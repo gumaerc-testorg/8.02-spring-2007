@@ -5,6 +5,7 @@ description: This resource contains  experiments on parallel current carrying wi
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/744bf9b8aa496d797e30f7806c2aa2de_prs_w07d1_qonly.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Class Activities
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains  experiments on parallel current carrying wires, Dipole in Field and torque on the dipole.
-

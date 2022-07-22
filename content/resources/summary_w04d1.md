@@ -4,6 +4,7 @@ description: This resource is about conductors and capacitors.
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/dfa628dd936b8daab27a2b66d6472dfa_summary_w04d1.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Class Activities
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource is about conductors and capacitors.
-

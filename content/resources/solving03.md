@@ -5,6 +5,7 @@ description: This resource contains informations about methodology for applying 
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/dc84ab49c12520f6d4a043106ba75f91_solving03.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Problem Solving
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains informations about methodology for applying Gauss?s law and exercises on concentric cylinders.
-

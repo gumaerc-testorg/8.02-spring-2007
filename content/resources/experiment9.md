@@ -4,6 +4,7 @@ description: This resource contains an experiment on interference and diffractio
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/80de81c8897a6835c7771736d6385fa3_experiment9.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Experiments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains an experiment on interference and diffraction.
-

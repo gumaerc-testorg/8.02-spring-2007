@@ -6,6 +6,7 @@ description: 'This resource includes exam 1 topics, general exam suggestions, pr
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/300d6ec9c0a2fc68130774e80c5dd080_presentati_w05d2.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Class Activities
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource includes exam 1 topics, general exam suggestions, prs questions: fields; Electric Fields and Potential; Conductors; Capacitors; Dielectrics, sample exam questions and answers.
-

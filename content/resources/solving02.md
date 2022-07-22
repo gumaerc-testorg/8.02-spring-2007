@@ -5,6 +5,7 @@ description: This resource contains informations about problem solving strategie
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/3eb3a9581f5c96b762e72c5c7e4adf76_solving02.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Problem Solving
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains informations about problem solving strategies, continuous charge densities and electric field on the axis of a line of charge.
-

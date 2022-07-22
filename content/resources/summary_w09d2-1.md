@@ -4,6 +4,7 @@ description: This resource is about Faraday?s Law.
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/c3bab03cb876b76ed01fa8df58058e97_summary_w09d2.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Class Activities
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource is about Faraday?s Law.
-

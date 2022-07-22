@@ -4,6 +4,7 @@ description: This resource is about Magnetic Levitation; Magnetic Forces on Dipo
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/ddd97631555c52e91a59f591fd6b2c46_summary_w07d2.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Class Activities
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource is about Magnetic Levitation; Magnetic Forces on Dipoles.
-

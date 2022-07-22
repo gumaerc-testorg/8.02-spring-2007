@@ -11,6 +11,7 @@ description: 'This resource includes the following topics:
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/2d2f227e6fd26ee25f366759e02f03dc_chapte13em_waves.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Class Activities
 parent_type: CourseSection
@@ -23,4 +24,3 @@ video_metadata:
 ---
 This resource includes the following topics:
 The displacement current, Gauss?s law for magnetism, Maxwell?s equations, plane electromagnetic waves, standing electromagnetic waves, poynting vector, momentum and radiation pressure, production of electromagnetic waves, summary, appendix: reflection of electromagnetic waves at conducting surfaces, problem-solving strategy: traveling electromagnetic waves, solved problems, conceptual questions, and additional problems.
-

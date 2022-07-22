@@ -4,6 +4,7 @@ description: ''
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/c1ef2e99446d7c4255e32752af8f6d26_ch14_inter_diffr.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Class Activities
 parent_type: CourseSection

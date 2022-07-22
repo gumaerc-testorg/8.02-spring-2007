@@ -5,6 +5,7 @@ description: This resource contains experiments on inductor connected to a batte
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/1186b333b072ff2ad4c1bafd79cd97ee_prs_w10d2_qonly.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Class Activities
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains experiments on inductor connected to a battery, potential difference and driving a motor.
-

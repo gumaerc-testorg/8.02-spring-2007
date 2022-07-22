@@ -7,6 +7,7 @@ description: 'This resource includes the following topics:
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/f17999d1b7efeb010a71df797453554b_chapter6current.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Class Activities
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
 ---
 This resource includes the following topics:
 electric current, Ohm?s law, electrical energy and power, summary, solved problems, conceptual questions, and additional problems.
-

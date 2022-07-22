@@ -4,6 +4,7 @@ description: This resurce is about RC and RL Circuits.
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/0b555c18394564326a00eea65928cdae_summary_w11d3.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Class Activities
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resurce is about RC and RL Circuits.
-

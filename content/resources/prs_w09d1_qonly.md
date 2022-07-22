@@ -5,6 +5,7 @@ description: This resource contains informations about current carrying coil and
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/77ed33994e628863e396d460f9e7c5a2_prs_w09d1_qonly.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Class Activities
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains informations about current carrying coil and loop in changing field.
-

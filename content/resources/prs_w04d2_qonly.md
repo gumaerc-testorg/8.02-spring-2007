@@ -4,6 +4,7 @@ description: ''
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/6937238f454844933103369468a0e6e1_prs_w04d2_qonly.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Class Activities
 parent_type: CourseSection

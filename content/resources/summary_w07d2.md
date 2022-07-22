@@ -8,6 +8,7 @@ file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/e74616cc7b8
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This file talks about forces on dipoles in nonuniform fields, and show some examples of using this to levitate objects. It also includes a lab to measure magnetic forces and obtain a measurement of ?0 and discusses Ampere?s Law, the magnetic equivalent of Gauss?s Law.
-

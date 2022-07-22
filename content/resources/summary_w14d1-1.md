@@ -4,6 +4,7 @@ description: This resource is about generating EM radiation.
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/d10b2389ff75096d57afd7ed4db88a91_summary_w14d1.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Class Activities
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource is about generating EM radiation.
-

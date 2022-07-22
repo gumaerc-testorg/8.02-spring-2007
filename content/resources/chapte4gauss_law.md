@@ -8,6 +8,7 @@ description: 'This resource includes the following topics:
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/b6306257b5c818e4034919c3d8680a70_chapte4gauss_law.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Class Activities
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
 ---
 This resource includes the following topics:
 electric flux, Gauss?s law, conductors, force on a conductor, summary, appendix: tensions and pressures, problem-solving strategies, solved problems, conceptual questions, and additional problems.
-

@@ -5,6 +5,7 @@ description: This resource is about coordinate systems; gradients; line and surf
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/fbcd7e6b803188930c5cae42d26ec397_summary_w01d3.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Class Activities
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource is about coordinate systems; gradients; line and surface integrals.
-

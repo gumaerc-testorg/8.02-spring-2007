@@ -4,6 +4,7 @@ description: This resource is about Gauss?s Law.
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/1f14654c795599e1cc060d5194060dce_summary_w03d2.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Class Activities
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource is about Gauss?s Law.
-

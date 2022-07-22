@@ -4,6 +4,7 @@ description: ''
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/e38edf6c9eaae1abb5d30435a695d9b4_presentati_w09d2.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Class Activities
 parent_type: CourseSection

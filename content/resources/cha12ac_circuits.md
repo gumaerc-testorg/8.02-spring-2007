@@ -8,6 +8,7 @@ description: 'This resource includes the following topics:
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/e7fd966c84001f4e8fc0f58a6751013e_cha12ac_circuits.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Class Activities
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
 ---
 This resource includes the following topics:
 AC Sources, Simple AC circuits, The RLC Series Circuit, Power in an AC circuit, Transformer, Parallel RLC Circuit, Summary, Problem-Solving Tips, Solved Problems, Conceptual Questions, and Additional Problems.
-

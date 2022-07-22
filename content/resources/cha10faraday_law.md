@@ -9,6 +9,7 @@ description: 'This resource includes the following topics:
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/ce1720fd4b21def8c2189ff4779f27f7_cha10faraday_law.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Class Activities
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
 ---
 This resource includes the following topics:
 Faraday?s law of induction, motional emf, induced electric field, generators, eddy currents, summary, appendix: induced emf and reference frames, problem-solving tips: Faraday?s law and Lenz?s law, solved problems, conceptual questions, and additional problems.
-

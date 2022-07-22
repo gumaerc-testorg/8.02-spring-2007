@@ -5,6 +5,7 @@ description: This resource contains informations about coordinate systems, vecto
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/5efad8c9189e2670324d1afcf92fcb98_solving01.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Problem Solving
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains informations about coordinate systems, vector fields, differentiation & the gradient and multi variable integration.
-

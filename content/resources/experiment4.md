@@ -5,6 +5,7 @@ description: This resource contains an experiment on forces and torques on magne
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/c67532f2fd929f8bae57bd7099e83f79_experiment4.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Experiments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains an experiment on forces and torques on magnetic dipoles.
-

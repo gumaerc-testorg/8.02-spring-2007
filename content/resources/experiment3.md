@@ -5,6 +5,7 @@ description: This resource contains an experiment on magnetic fields of a bar ma
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/ed0120a5ffcd7ef88f18ebd30b427b00_experiment3.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Experiments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains an experiment on magnetic fields of a bar magnet and Helmholtz coil.
-

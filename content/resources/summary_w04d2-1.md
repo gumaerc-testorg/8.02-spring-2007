@@ -4,6 +4,7 @@ description: This resource is about capacitors.
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/61dcc7e05c94f7786547214a4267682f_summary_w04d2.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Class Activities
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource is about capacitors.
-

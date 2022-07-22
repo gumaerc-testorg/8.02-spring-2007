@@ -4,6 +4,7 @@ description: This resource is about EM Radiation.
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/795f84ec4e6dbfbec32b3a222a93a0b1_summary_w13d3.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Class Activities
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource is about EM Radiation.
-
