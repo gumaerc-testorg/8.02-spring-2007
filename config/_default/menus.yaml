@@ -27,7 +27,3 @@ leftnav:
   name: Class Slides
   url: /pages/class-slides
   weight: 70
-- identifier: ea1fcef1-1143-e57e-2f48-a97bf8747dc2
-  name: Visualizations
-  url: /pages/visualizations/
-  weight: 80
