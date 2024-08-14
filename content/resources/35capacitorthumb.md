@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/111b49e57df3f0df9436e1ecc354e1f4_35capacitorthumb.jpg
+file_size: 10409
 file_type: image/jpeg
 image_metadata:
   caption: ''

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains an experiment on Ohm's law, RC and RL circuits.
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/4a47def39861449ef7407fd1003bc2e0_experiment6.pdf
+file_size: 358399
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

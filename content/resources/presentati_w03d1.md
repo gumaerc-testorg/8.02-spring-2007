@@ -9,6 +9,7 @@ description: 'This resource includes the following topics:
   of earth, energy to charge capacitor, energy stored in capacitor, and dissectible
   capacitor.'
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/30f84e5307b76d469b9f8901964ca1cd_presentati_w03d1.pdf
+file_size: 1021968
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

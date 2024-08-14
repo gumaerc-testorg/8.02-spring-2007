@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/e22e616f394f8bd70f06799793607846_33torqueondipbthumb.jpg
+file_size: 9018
 file_type: image/jpeg
 image_metadata:
   caption: ''

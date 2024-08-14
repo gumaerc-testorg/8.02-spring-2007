@@ -4,6 +4,7 @@ description: This resource contains  problem solving strategies using Gauss?s la
   compute the electric potential difference between two conductors, cylindrical capacitor
   and problems on electric field.
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/44ed209102abb3ede75094763210cb3b_solving04.pdf
+file_size: 114893
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

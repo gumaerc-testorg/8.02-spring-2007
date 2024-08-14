@@ -6,6 +6,7 @@ description: 'This resource includes the following topics:
   induction, Faraday?s law of induction, ways to induce emf , maxwell?s equations,
   motors and generators, and electric guitar.'
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/35c3c8bf32cec4cdc4decf438572bda8_presentati_w09d1.pdf
+file_size: 910887
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

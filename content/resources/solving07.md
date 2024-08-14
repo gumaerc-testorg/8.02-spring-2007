@@ -8,6 +8,7 @@ description: This resource tells about to explore a particular situation that ca
   carrying wires in our circuit and determine the effects of these forces on the dynamics
   of the circuit.
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/79b9a68279c9bfb7452898c5170097e4_solving07.pdf
+file_size: 146600
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -8,6 +8,7 @@ description: 'This resource includes the following topics:
   equivalent capacitance, capacitors in series, dielectric in capacitor, dielectrics,
   Gauss?s law for dielectrics, and dielectric in a capacitor.'
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/868f2e3078fb1489fdda2ba2cff75452_presentati_w03d2.pdf
+file_size: 767350
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/5d7e921c6ebdba58344bc4510b93f851_01FallingRingThumb.jpg
+file_size: 6601
 file_type: image/jpeg
 image_metadata:
   caption: ''

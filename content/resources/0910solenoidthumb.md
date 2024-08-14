@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/71017b16e306f376d3db8d394564e00f_0910solenoidThumb.jpg
+file_size: 10076
 file_type: image/jpeg
 image_metadata:
   caption: ''

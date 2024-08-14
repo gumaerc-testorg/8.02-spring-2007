@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource is about Interference.
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/0074069cc26449b61cfdf1c36b258309_summary_w15d1.pdf
+file_size: 64765
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

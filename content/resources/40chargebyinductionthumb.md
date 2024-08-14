@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/bc9c696c71c4b8f66d17ae847376a892_40chargebyinductionthumb.jpg
+file_size: 6556
 file_type: image/jpeg
 image_metadata:
   caption: ''

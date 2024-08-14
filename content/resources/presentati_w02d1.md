@@ -9,6 +9,7 @@ description: 'This resource includes the following topics:
   potential landscape, potential created by pt charge, deriving E from V, configuration
   energy, and in class problem.'
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/f74376aa598f51e8f95c37beda1bf23f_presentati_w02d1.pdf
+file_size: 469412
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

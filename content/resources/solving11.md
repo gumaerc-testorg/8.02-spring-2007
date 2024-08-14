@@ -5,6 +5,7 @@ description: This resource tells to understand the meaning of constructive and d
   slit interference and to understand how to determine the intensity of the light
   associated with double slit interference.
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/412c6fa3adcd41cc3b1aab3201ec4aa2_solving11.pdf
+file_size: 764773
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

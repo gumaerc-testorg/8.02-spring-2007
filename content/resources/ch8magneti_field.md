@@ -7,6 +7,7 @@ description: 'This resource includes the following topics:
   summary, problem-solving tips, solved problems, conceptual questions, and additional
   problems.'
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/5954b5f5d08503abd5534d7e9db4c893_ch8magneti_field.pdf
+file_size: 775291
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

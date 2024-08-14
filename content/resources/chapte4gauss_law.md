@@ -6,6 +6,7 @@ description: 'This resource includes the following topics:
   tensions and pressures, problem-solving strategies, solved problems, conceptual
   questions, and additional problems.'
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/b6306257b5c818e4034919c3d8680a70_chapte4gauss_law.pdf
+file_size: 806522
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

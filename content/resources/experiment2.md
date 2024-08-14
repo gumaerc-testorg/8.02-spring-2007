@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains an experiment on Faraday ice pail.
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/f803575fba24ecde393da41a40708777_experiment2.pdf
+file_size: 307589
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

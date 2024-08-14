@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/3f7307cde92151f96b61c57da653613d_17scatterRepThumb.jpg
+file_size: 12955
 file_type: image/jpeg
 image_metadata:
   caption: ''
