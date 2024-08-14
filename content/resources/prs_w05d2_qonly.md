@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains  informations about vector field, grass seeds
   field plot and E-field of two equal charges.
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/65c2fe70e86587eb8cae020bca650450_prs_w05d2_qonly.pdf
+file_size: 876205
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

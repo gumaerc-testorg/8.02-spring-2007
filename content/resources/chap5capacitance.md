@@ -7,6 +7,7 @@ description: 'This resource includes the following topics:
   electric fields hold atoms together, problem-solving strategy: calculating capacitance,
   solved problems, conceptual questions, and additional problems.'
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/ba7ba4fb31a34a167dc98bf25904d38a_chap5capacitance.pdf
+file_size: 1338513
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

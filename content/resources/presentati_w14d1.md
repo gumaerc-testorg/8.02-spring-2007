@@ -8,6 +8,7 @@ description: 'This resource includes the following topics:
   polarization, demonstration: microwave polarization, experiment 12: microwaves,
   and exam 3 results.'
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/06f0c8a465591c61e544a127cd52600a_presentati_w14d1.pdf
+file_size: 3014909
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

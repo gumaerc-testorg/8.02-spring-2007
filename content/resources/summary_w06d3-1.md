@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource is about Ampere?s Law.
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/c845120ad059744ea312d72742ad6394_summary_w06d3.pdf
+file_size: 58808
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

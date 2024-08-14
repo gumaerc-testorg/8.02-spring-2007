@@ -5,6 +5,7 @@ description: 'This resource includes the following topics: faraday?s law mutual 
   LR circuit & problem, demos: breaking circuits with inductors, energy in inductor,
   back to back EMF, prs question: stopping a motor.'
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/94a7e724c9aa48d574f4bdb5e6184480_presentati_w10d2.pdf
+file_size: 593524
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

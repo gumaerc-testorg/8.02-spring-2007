@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/f2257cf4e81a6493d6727dc8c1db0bae_16superconductorthumb.jpg
+file_size: 5891
 file_type: image/jpeg
 image_metadata:
   caption: ''

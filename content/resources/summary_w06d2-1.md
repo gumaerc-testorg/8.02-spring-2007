@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource is about magnetic fields: creating magnetic fields ? Ampere?s
   Law.'
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/326f5c984272edcbb32b0ebccfb2236a_summary_w06d2.pdf
+file_size: 54239
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

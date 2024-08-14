@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains an experiment on equipotential lines and electric
   fields.
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/5f7d6bfe8d781aa002b0edda097bc191_experiment1.pdf
+file_size: 651750
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

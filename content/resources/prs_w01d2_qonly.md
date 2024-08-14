@@ -4,6 +4,7 @@ description: This resource contains informations about directions of the forces,
   charges accelerating direction, and the direction  of moving charges causing them
   to accelerate.
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/30ddddf5941f48939557c2e675d9985d_prs_w01d2_qonly.pdf
+file_size: 280145
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

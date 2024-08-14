@@ -10,6 +10,7 @@ description: 'This resource includes the following topics: capacitors & dielectr
   group problem: circuit, electrical power, power: battery; resistor; capacitor, energy
   balance, prs questions: more light bulbs.'
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/72a3e1e27e621d4d9a12a6e01dc8de3b_presentati_w04d2.pdf
+file_size: 878208
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -6,6 +6,7 @@ description: 'This resource includes the following topics:
   gravitational field, electric fields, magnetic field, representations of a vector
   field, summary, solved problems, and additional problems.'
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/10cac9d6b5a390de2251ba20a23e8be3_chapter1fields.pdf
+file_size: 849531
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

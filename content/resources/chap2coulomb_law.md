@@ -8,6 +8,7 @@ description: 'This resource includes the following topics:
   distributions, summary, problem-solving strategies, solved problems, conceptual
   questions, and additional problems.'
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/408d683395106a54b6d89433457abb6c_chap2coulomb_law.pdf
+file_size: 930190
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

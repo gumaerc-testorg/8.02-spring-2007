@@ -4,6 +4,7 @@ description: 'This resource contains informations about a  coil moving up from u
   a magnet with its north pole pointing upward, Faraday?s law: Rails and Faraday?s
   Law: Generator.'
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/1d1b4559fa40bcadc64db7769528e872_prs_w09d2_qonly.pdf
+file_size: 309188
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -9,6 +9,7 @@ description: 'This resource includes the following topics:
   law; gauss: spherical symmetry, cylindrical symmetry, planar symmetry; and group
   problem: charge slab.'
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/ae0d9b601b83812b25ed6a4fb0c19a03_presentati_w02d2.pdf
+file_size: 994083
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

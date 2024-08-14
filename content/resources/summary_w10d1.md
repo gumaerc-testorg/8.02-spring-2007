@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource is about Inductors and Magnetic Energy; RL Circuits.
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/172d47f24a9d8041bb1deec7ffb430e0_summary_w10d1.pdf
+file_size: 63141
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

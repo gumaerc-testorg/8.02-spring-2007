@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource is about Magnetic Fields: Feeling Magnetic Fields ? Charges
   and Dipoles.'
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/d81d45892859a6ecad5c85c8ce7f0561_summary_w07d1.pdf
+file_size: 127224
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

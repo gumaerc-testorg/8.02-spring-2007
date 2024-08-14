@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/ed377bdbcf22306233bd21720bca2df1_10forceMovingThumb.jpg
+file_size: 18282
 file_type: image/jpeg
 image_metadata:
   caption: ''

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains an experiment on magnetic fields of a bar magnet
   and Helmholtz coil.
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/ed0120a5ffcd7ef88f18ebd30b427b00_experiment3.pdf
+file_size: 255108
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
