@@ -7,6 +7,7 @@ description: 'This resource includes the following topics:
   Faraday?s law and Lenz?s law, solved problems, conceptual questions, and additional
   problems.'
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/ce1720fd4b21def8c2189ff4779f27f7_cha10faraday_law.pdf
+file_size: 691918
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -8,6 +8,7 @@ description: This resource tells to introduce the "displacement current" term th
   flows into a capacitor when it is charging, and show that it accounts for the rate
   at which electric energy stored in the capacitor is increasing.
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/7be3a856117cd029124cab269b13e5cf_solving10.pdf
+file_size: 274018
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

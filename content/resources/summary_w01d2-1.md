@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the following topics Electric Charge; Electric
   Fields; Dipoles; Continuous Charge Distributions.
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/fab6a8f6fa1477dfa6793ac3e84108f2_summary_w01d2.pdf
+file_size: 61228
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

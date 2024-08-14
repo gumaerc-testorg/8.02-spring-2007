@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains acknowledgements to the persons who helped build
   this course.
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/d7d1fabcb57a6d4a9cc96f04348dedfd_acknowledgements.pdf
+file_size: 10195
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

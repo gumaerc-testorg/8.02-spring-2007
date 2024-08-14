@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains informations about changing C dimensions and parallel-plate
   capacitors.
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/7a53f23fa046545f2424ceefcd8036a6_prs_w03d1_qonly.pdf
+file_size: 637891
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource is about driven LRC circuits.
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/27bf3848f28fa1607d42c18be4625f79_summary_w12d3.pdf
+file_size: 52229
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

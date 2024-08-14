@@ -3,6 +3,7 @@ content_type: resource
 description: This resource is contains information on  introduction to TEAL; fields;
   review of gravity; electric field.
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/7945867d6ee2847fbb3321be12cceee8_summary_w01d1.pdf
+file_size: 132873
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

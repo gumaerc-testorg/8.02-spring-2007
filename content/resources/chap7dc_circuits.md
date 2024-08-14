@@ -7,6 +7,7 @@ description: 'This resource includes the following topics:
   strategy: applying Kirchhoff?s rules, solved problems, conceptual questions, and
   additional problems.'
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/889322bd4426984d161121cf5cf2cb31_chap7dc_circuits.pdf
+file_size: 685378
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

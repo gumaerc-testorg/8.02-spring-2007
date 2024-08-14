@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource is about what we expect from you on the exam.
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/8d7083ee3b4c0c80bf252836c63dc59e_summary_w14d2.pdf
+file_size: 138349
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains experiments of force when wire is above the magnet,
   wire is in front of magnet, behind the magnet and bent wire.
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/5ac2549dbc5e17db9dd5f088969202db_prs_w06d2_qonly.pdf
+file_size: 70200
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

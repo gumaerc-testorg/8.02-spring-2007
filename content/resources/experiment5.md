@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains an experiment on Faraday's law.
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/a4cb17d792e60dae1cac0167fd84366b_experiment5.pdf
+file_size: 197385
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

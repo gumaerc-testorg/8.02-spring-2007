@@ -6,6 +6,7 @@ description: 'This resource includes the following topics:
   Transformer, Parallel RLC Circuit, Summary, Problem-Solving Tips, Solved Problems,
   Conceptual Questions, and Additional Problems.'
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/e7fd966c84001f4e8fc0f58a6751013e_cha12ac_circuits.pdf
+file_size: 706896
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

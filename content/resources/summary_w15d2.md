@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource is about Final Exam Information.
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/b9b500681ffb06a4fc6179fc409d571c_summary_w15d2.pdf
+file_size: 20764
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

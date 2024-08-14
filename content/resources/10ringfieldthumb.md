@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/635b167a432164d2c130b892c4debbaa_10ringfieldThumb.jpg
+file_size: 8672
 file_type: image/jpeg
 image_metadata:
   caption: ''

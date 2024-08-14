@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/c66d8596d61882d852c97946818be3fe_01vdg_Attract_100.jpg
+file_size: 9647
 file_type: image/jpeg
 image_metadata:
   caption: ''

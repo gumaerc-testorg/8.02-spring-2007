@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains an experiment on undriven and driven RLC circuits.
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/2f97bce93e297cfc286cfddb7d653053_experiment7.pdf
+file_size: 140130
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

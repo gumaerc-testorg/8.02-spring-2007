@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource is about continuous charge distributions.
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/382a4c914b3e91dadb7c92ecfbb4bb45_summary_w02d3.pdf
+file_size: 36446
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

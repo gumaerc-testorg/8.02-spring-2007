@@ -4,6 +4,7 @@ description: 'This resource includes exam 2 topics, general exam suggestions, wh
   you should study, prs questions: light bulbs; DC circuits with capacitors; right
   hand rule; magnetic dipole moments; making B fields, sample exam problems and solutions.'
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/9a49c4afe5e57b5733cd2ee557c12b38_presentati_w10d1.pdf
+file_size: 672800
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -9,6 +9,7 @@ description: 'This resource includes the following topics:
   traveling electromagnetic waves, solved problems, conceptual questions, and additional
   problems.'
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/2d2f227e6fd26ee25f366759e02f03dc_chapte13em_waves.pdf
+file_size: 972197
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

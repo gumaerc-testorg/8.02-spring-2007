@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains informations about uncharged capacitor, dc voltage,
   parallel resistor and multi loop circuit with capacitor.
 file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/07d52ecb0a91a7ef4e46d70bfdaf92f5_prs_w05d1_qonly.pdf
+file_size: 86023
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
