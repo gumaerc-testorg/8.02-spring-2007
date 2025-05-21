@@ -1,6 +1,7 @@
 ---
 content_type: page
-description: ''
+description: This page includes a variety of visualizations.
+draft: true
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Visualizations
@@ -11,7 +12,6 @@ uid: c3d903ae-1edf-68e9-21e8-42ecdf1df073
 video_metadata:
   youtube_id: null
 ---
-
 *   {{< resource uuid="70c319af-7fad-61c9-d857-308616c8ae12" href="/ans7870/8/8.02T/f04/visualizations/vectorfields/01-particleSink/01-ParticleSink_320.html" >}}[A Particle Sink.](/ans7870/8/8.02T/f04/visualizations/vectorfields/01-particleSink/01-ParticleSink_320.html)
 *   {{< resource uuid="33d87be0-9393-eea3-3773-cd325e1597d0" href="/ans7870/8/8.02T/f04/visualizations/vectorfields/02-particleSource/02-ParticleSource_320.html" >}}[A Particle Source.](/ans7870/8/8.02T/f04/visualizations/vectorfields/02-particleSource/02-ParticleSource_320.html)
 *   {{< resource uuid="1b7b6696-87cf-3a20-6ba9-141e41eadf36" href="/ans7870/8/8.02T/f04/visualizations/vectorfields/03-particleCirculate/03-PartCircMotion_320.html" >}}[A Circulating Flow of Particles.](/ans7870/8/8.02T/f04/visualizations/vectorfields/03-particleCirculate/03-PartCircMotion_320.html)
