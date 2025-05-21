@@ -1,6 +1,7 @@
 ---
 content_type: page
-description: ''
+description: This page includes a variety of visualizations.
+draft: true
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Visualizations
@@ -11,7 +12,6 @@ uid: ac024811-1c75-46a6-f9a6-435379cca7f3
 video_metadata:
   youtube_id: null
 ---
-
 *   {{< resource uuid="5d7e921c-6ebd-ba58-344b-c4510b93f851" href="/ans7870/8/8.02T/f04/visualizations/faraday/01-FallingRing/01-Falling_Ring320.html" >}}[The Levitating Ring.](/ans7870/8/8.02T/f04/visualizations/faraday/01-FallingRing/01-Falling_Ring320.html)
 *   {{< resource uuid="de1a9667-c503-77f1-59e7-44eeee4a05f7" href="/ans7870/8/8.02T/f04/visualizations/faraday/02-FallingRingEquator/02-FallRingSupEq_f100_320.html" >}}[The Suspended Ring.](/ans7870/8/8.02T/f04/visualizations/faraday/02-FallingRingEquator/02-FallRingSupEq_f100_320.html)
 *   {{< resource uuid="6c9f0c20-461a-5511-01f2-c32b270d73ee" href="/ans7870/8/8.02T/f04/visualizations/faraday/03-FallingRingResistive/03-FallRingRes_f55_320.html" >}}[The Falling Ring with Finite Resistance.](/ans7870/8/8.02T/f04/visualizations/faraday/03-FallingRingResistive/03-FallRingRes_f55_320.html)
