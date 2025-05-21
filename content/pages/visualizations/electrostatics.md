@@ -1,6 +1,7 @@
 ---
 content_type: page
-description: ''
+description: This page includes a variety of visualizations.
+draft: true
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Visualizations
@@ -11,7 +12,6 @@ uid: 38dfdd33-7b0a-6965-4336-3b59a5c32899
 video_metadata:
   youtube_id: null
 ---
-
 *   {{< resource uuid="c66d8596-d618-82d8-52c9-7946818be3fe" href="/ans7870/8/8.02T/f04/visualizations/electrostatics/01-VandeGraffAttract/01-vdg_Attract_320.html" >}}[A van de Graaff Generator Attracting a Charge.](/ans7870/8/8.02T/f04/visualizations/electrostatics/01-VandeGraffAttract/01-vdg_Attract_320.html)
 *   {{< resource uuid="5ee7f3b9-102b-669f-6e01-ab0fabc34a2b" href="/ans7870/8/8.02T/f04/visualizations/electrostatics/02-VandeGraffRepel/02-vdg_Repel_DLIC_320.html" >}}[A van de Graaff Generator Repelling a Charge.](/ans7870/8/8.02T/f04/visualizations/electrostatics/02-VandeGraffRepel/02-vdg_Repel_DLIC_320.html)
 *   {{< resource uuid="46856269-2d69-35e7-51d4-cb4cdac1eda3" href="/ans7870/8/8.02T/f04/visualizations/electrostatics/03-ChargeField3d/03-chargeField320.html" >}}[The Electric Field of a Positive Charge.](/ans7870/8/8.02T/f04/visualizations/electrostatics/03-ChargeField3d/03-chargeField320.html)

@@ -1,6 +1,7 @@
 ---
 content_type: page
-description: ''
+description: This page includes a variety of visualizations.
+draft: true
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Visualizations
@@ -11,7 +12,6 @@ uid: aaa6d555-5d86-e28c-f858-f7d105f59044
 video_metadata:
   youtube_id: null
 ---
-
 *   {{< resource uuid="b78f63dc-2228-3cbd-4560-d0e538e7baa1" href="/ans7870/8/8.02T/f04/visualizations/light/01-DipoleRadiation/01-Dipole_320.html" >}}[Electric Dipole Radiation.](/ans7870/8/8.02T/f04/visualizations/light/01-DipoleRadiation/01-Dipole_320.html)
 *   {{< resource uuid="f5fb260b-51c5-aba1-be49-492f41496d39" href="/ans7870/8/8.02T/f04/visualizations/light/02-dipoleRadiationReversing/02-SmPointDipole_320.html" >}}[Electric Dipole Radiation Reversing.](/ans7870/8/8.02T/f04/visualizations/light/02-dipoleRadiationReversing/02-SmPointDipole_320.html)
 *   {{< resource uuid="394a5737-7435-f1cd-ea85-c77b210ba597" href="/ans7870/8/8.02T/f04/visualizations/light/03-AntennaPattern/03-MicrowaveAntenna_320.html" >}}[Radiation Pattern of a Quarter Wave Antenna.](/ans7870/8/8.02T/f04/visualizations/light/03-AntennaPattern/03-MicrowaveAntenna_320.html)

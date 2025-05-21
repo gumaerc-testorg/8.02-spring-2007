@@ -1,6 +1,7 @@
 ---
 content_type: page
-description: ''
+description: This page includes a variety of visualizations.
+draft: true
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Visualizations
@@ -11,7 +12,6 @@ uid: 9d6aa9bb-7fdf-4d78-08ef-326a86c0b45e
 video_metadata:
   youtube_id: null
 ---
-
 *   {{< resource uuid="7390fb9d-4bf4-7a86-78b4-635c4622f5a4" href="/ans7870/8/8.02T/f04/visualizations/magnetostatics/01-MovingChargePosMag/01-MovChrgMagPos_f223_320.html" >}}[The Magnetic Field of a Moving Positive Charge.](/ans7870/8/8.02T/f04/visualizations/magnetostatics/01-MovingChargePosMag/01-MovChrgMagPos_f223_320.html)
 *   {{< resource uuid="6eecb0e4-6405-27a9-3357-0517c65d96ae" href="/ans7870/8/8.02T/f04/visualizations/magnetostatics/02-MovingChargeNegMag/02-MovChrgMagNeg_f223_320.html" >}}[The Magnetic Field of a Moving Negative Charge.](/ans7870/8/8.02T/f04/visualizations/magnetostatics/02-MovingChargeNegMag/02-MovChrgMagNeg_f223_320.html)
 *   {{< resource uuid="12c1d145-e760-8dfc-a05b-a838f1ec3348" href="/ans7870/8/8.02T/f04/visualizations/magnetostatics/03-CurrentElement3d/03-cElement320.html" >}}[The Magnetic Field of a Current Element.](/ans7870/8/8.02T/f04/visualizations/magnetostatics/03-CurrentElement3d/03-cElement320.html)
