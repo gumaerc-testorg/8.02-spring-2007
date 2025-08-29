@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/471b39dac9a372613971c23d4c27c6ca_43torqueondipoleethumb.jpg
+file: /ol-ocw-studio-app/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/471b39dac9a372613971c23d4c27c6ca_43torqueondipoleethumb.jpg
 file_size: 11567
 file_type: image/jpeg
 image_metadata:

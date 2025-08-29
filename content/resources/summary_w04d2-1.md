@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is about capacitors.
-file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/61dcc7e05c94f7786547214a4267682f_summary_w04d2.pdf
+file: /ol-ocw-studio-app/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/61dcc7e05c94f7786547214a4267682f_summary_w04d2.pdf
 file_size: 52090
 file_type: application/pdf
 learning_resource_types: []

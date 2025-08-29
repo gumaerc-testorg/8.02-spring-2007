@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains an experiment on interference and diffraction.
-file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/80de81c8897a6835c7771736d6385fa3_experiment9.pdf
+file: /ol-ocw-studio-app/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/80de81c8897a6835c7771736d6385fa3_experiment9.pdf
 file_size: 217976
 file_type: application/pdf
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is about creating magnetic fields.
-file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/a2e49744a4ff15ec4aee5e2c5a4c670b_summary_w06d1.pdf
+file: /ol-ocw-studio-app/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/a2e49744a4ff15ec4aee5e2c5a4c670b_summary_w06d1.pdf
 file_size: 67702
 file_type: application/pdf
 learning_resource_types: []

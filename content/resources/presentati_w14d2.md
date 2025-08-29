@@ -8,7 +8,7 @@ description: 'This resource includes the following topics: microwaves (mw), inte
   double slit path difference, lecture demonstration: double slit, diffraction, single-slit
   diffraction, intensity distribution, prs question: two slits with width, babinet?s
   principle, experiment 13.'
-file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/eee0ea4c0259454307b7d1c431284d72_presentati_w14d2.pdf
+file: /ol-ocw-studio-app/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/eee0ea4c0259454307b7d1c431284d72_presentati_w14d2.pdf
 file_size: 1426933
 file_type: application/pdf
 learning_resource_types: []

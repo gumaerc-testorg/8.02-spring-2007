@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/f545ca740f29e06970ba51fa643ac434_11fallingcoilthumb.jpg
+file: /ol-ocw-studio-app/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/f545ca740f29e06970ba51fa643ac434_11fallingcoilthumb.jpg
 file_size: 9495
 file_type: image/jpeg
 image_metadata:

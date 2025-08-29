@@ -8,7 +8,7 @@ description: 'This resource includes the following topics: undriven RLC circuits
   phase, prs question: who dominates, RLC circuits: resonances, demonstration: RLC
   with light bulb, prs questions: resonance, experiment 11: driven RLC circuit; how
   to.'
-file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/779104000f0fc40273a114107f124373_presentati_w11d2.pdf
+file: /ol-ocw-studio-app/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/779104000f0fc40273a114107f124373_presentati_w11d2.pdf
 file_size: 902126
 file_type: application/pdf
 learning_resource_types: []

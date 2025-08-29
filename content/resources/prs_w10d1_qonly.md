@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains  experiments on bulbs and batteries, RC Circuit
   and force on charged particles.
-file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/43021c8c025c35987b8ce5fc5b075f18_prs_w10d1_qonly.pdf
+file: /ol-ocw-studio-app/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/43021c8c025c35987b8ce5fc5b075f18_prs_w10d1_qonly.pdf
 file_size: 958037
 file_type: application/pdf
 learning_resource_types: []

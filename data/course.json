@@ -36,9 +36,10 @@
   "learning_resource_types": [
     "Problem Sets",
     "Lecture Notes",
-    "Online Textbook"
+    "Open Textbooks"
   ],
   "site_uid": "4f240be7-a2c8-4c58-97c9-b6682c78964c",
   "site_short_id": "8.02-spring-2007",
+  "site_url_path": "courses/8-02-physics-ii-electricity-and-magnetism-spring-2007",
   "title": "Course Metadata"
 }

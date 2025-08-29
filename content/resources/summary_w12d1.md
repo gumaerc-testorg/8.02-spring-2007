@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is about LC, and Undriven LRC Circuits.
-file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/4013cef536c711ffa14051b8666daf00_summary_w12d1.pdf
+file: /ol-ocw-studio-app/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/4013cef536c711ffa14051b8666daf00_summary_w12d1.pdf
 file_size: 67220
 file_type: application/pdf
 learning_resource_types: []

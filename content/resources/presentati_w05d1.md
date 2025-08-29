@@ -4,7 +4,7 @@ description: 'This resource includes the following topics: resistors & ohm?s law
   measuring voltage & current, experiment 4-part 1: measuring V, I & R, prs questions:
   charging a capacitor, demonstrations: RC time constants, experiment 4-part II: RC
   circuits, prs question: multiloop circuit with capacitor in one loop.'
-file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/b73f801f2d4d4c59544cfc7623204400_presentati_w05d1.pdf
+file: /ol-ocw-studio-app/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/b73f801f2d4d4c59544cfc7623204400_presentati_w05d1.pdf
 file_size: 345596
 file_type: application/pdf
 learning_resource_types: []

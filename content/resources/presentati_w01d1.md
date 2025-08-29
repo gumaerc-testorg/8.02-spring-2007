@@ -4,7 +4,7 @@ description: 'This resource includes the following topics:
 
   why physics?, why studio physics? (and how?), vector and scalar fields, gravitational
   fields, and electric fields.'
-file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/576bb3137e9ce4ecc87f73f18221278d_presentati_w01d1.pdf
+file: /ol-ocw-studio-app/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/576bb3137e9ce4ecc87f73f18221278d_presentati_w01d1.pdf
 file_size: 722728
 file_type: application/pdf
 learning_resource_types: []

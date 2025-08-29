@@ -7,7 +7,7 @@ description: 'This resource includes the following topics:
   dipole in electric field, charge density, electric fields due to continuous charge
   distributions, summary, problem-solving strategies, solved problems, conceptual
   questions, and additional problems.'
-file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/408d683395106a54b6d89433457abb6c_chap2coulomb_law.pdf
+file: /ol-ocw-studio-app/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/408d683395106a54b6d89433457abb6c_chap2coulomb_law.pdf
 file_size: 930190
 file_type: application/pdf
 learning_resource_types: []

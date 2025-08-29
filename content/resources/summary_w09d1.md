@@ -3,7 +3,7 @@ content_type: resource
 description: This resource talks about Maxwell?s equation, Faraday?s law, which explains
   that electric fields can be generated not only by charges but also by magnetic fields
   that vary in time.
-file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/a8cc3d1cf958ad05c8ce853e8421e85d_summary_w09d1.pdf
+file: /ol-ocw-studio-app/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/a8cc3d1cf958ad05c8ce853e8421e85d_summary_w09d1.pdf
 file_size: 222076
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/2ee1b983114e2cba1eba19eda74620fd_09RingMagFieldThumb.jpg
+file: /ol-ocw-studio-app/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/2ee1b983114e2cba1eba19eda74620fd_09RingMagFieldThumb.jpg
 file_size: 7779
 file_type: image/jpeg
 image_metadata:

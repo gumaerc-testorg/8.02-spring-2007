@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains experiments on inductor connected to a battery,
   potential difference and driving a motor.
-file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/1186b333b072ff2ad4c1bafd79cd97ee_prs_w10d2_qonly.pdf
+file: /ol-ocw-studio-app/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/1186b333b072ff2ad4c1bafd79cd97ee_prs_w10d2_qonly.pdf
 file_size: 129140
 file_type: application/pdf
 learning_resource_types: []
