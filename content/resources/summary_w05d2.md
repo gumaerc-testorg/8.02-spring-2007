@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file gives a list of the expectations from the students in the examination.
-file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/29aa4190d8184fefa56498b77a3507e1_summary_w05d2.pdf
+file: /ol-ocw-studio-app/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/29aa4190d8184fefa56498b77a3507e1_summary_w05d2.pdf
 file_size: 110452
 file_type: application/pdf
 learning_resource_types:

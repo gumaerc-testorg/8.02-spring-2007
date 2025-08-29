@@ -6,7 +6,7 @@ description: 'This resource includes the following topics:
   equations, electromagnetic radiation, traveling sine wave, prs question: wave, properties
   of em waves, direction of propagation, energy in em waves, poynting vector and intensity,
   energy flow:  resistor, and energy flow: inductor.'
-file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/fa97e68e56fa2b1574128d0aebd1bc82_presentati_w12d2.pdf
+file: /ol-ocw-studio-app/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/fa97e68e56fa2b1574128d0aebd1bc82_presentati_w12d2.pdf
 file_size: 990109
 file_type: application/pdf
 learning_resource_types: []

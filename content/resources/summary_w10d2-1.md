@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is about what we expect from you on the exam.
-file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/15c89b737e7fbda13b95ff31b92e29b8_summary_w10d2.pdf
+file: /ol-ocw-studio-app/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/15c89b737e7fbda13b95ff31b92e29b8_summary_w10d2.pdf
 file_size: 71705
 file_type: application/pdf
 learning_resource_types: []

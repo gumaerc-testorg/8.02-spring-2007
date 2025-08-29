@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is about electric potential.
-file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/8c3b0ba76dfcf363b538f0d4035dfde0_summary_w02d1.pdf
+file: /ol-ocw-studio-app/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/8c3b0ba76dfcf363b538f0d4035dfde0_summary_w02d1.pdf
 file_size: 43802
 file_type: application/pdf
 learning_resource_types: []

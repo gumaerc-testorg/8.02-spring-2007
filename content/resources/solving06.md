@@ -6,7 +6,7 @@ description: This resource tell about To look at the behavior of a charged parti
   external magnetic field and define the magnetic dipole moment of a loop of current-carrying
   wire and write the torque on the loop in terms of that vector and the external magnetic
   field.
-file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/0a665f67268e91b14d101477f3f4ae34_solving06.pdf
+file: /ol-ocw-studio-app/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/0a665f67268e91b14d101477f3f4ae34_solving06.pdf
 file_size: 161808
 file_type: application/pdf
 learning_resource_types: []

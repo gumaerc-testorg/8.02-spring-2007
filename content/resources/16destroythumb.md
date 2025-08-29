@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/6510520c10e249de7f68569f6ce5b4da_16destroyThumb.jpg
+file: /ol-ocw-studio-app/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/6510520c10e249de7f68569f6ce5b4da_16destroyThumb.jpg
 file_size: 5168
 file_type: image/jpeg
 image_metadata:

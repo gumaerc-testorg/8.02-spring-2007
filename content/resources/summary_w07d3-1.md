@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains informations about Lorenz force on moving charges
   currents, right hand rules, torque vector and important equations.
-file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/ff9ebf672665bce34f9a5450ab12929d_summary_w07d3.pdf
+file: /ol-ocw-studio-app/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/ff9ebf672665bce34f9a5450ab12929d_summary_w07d3.pdf
 file_size: 111600
 file_type: application/pdf
 learning_resource_types: []

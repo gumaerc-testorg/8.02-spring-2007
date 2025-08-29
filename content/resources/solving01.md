@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains informations about coordinate systems, vector
   fields, differentiation & the gradient and multi variable integration.
-file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/5efad8c9189e2670324d1afcf92fcb98_solving01.pdf
+file: /ol-ocw-studio-app/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/5efad8c9189e2670324d1afcf92fcb98_solving01.pdf
 file_size: 1469218
 file_type: application/pdf
 learning_resource_types: []

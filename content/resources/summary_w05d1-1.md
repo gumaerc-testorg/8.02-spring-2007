@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is about current, resistance, and DC circuits.
-file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/0d0fd6cf993958db9fbd7738c21e51e1_summary_w05d1.pdf
+file: /ol-ocw-studio-app/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/0d0fd6cf993958db9fbd7738c21e51e1_summary_w05d1.pdf
 file_size: 68451
 file_type: application/pdf
 learning_resource_types: []

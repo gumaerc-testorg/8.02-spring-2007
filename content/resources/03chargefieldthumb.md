@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/468562692d6935e751d4cb4cdac1eda3_03chargeFieldThumb.jpg
+file: /ol-ocw-studio-app/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/468562692d6935e751d4cb4cdac1eda3_03chargeFieldThumb.jpg
 file_size: 7536
 file_type: image/jpeg
 image_metadata:

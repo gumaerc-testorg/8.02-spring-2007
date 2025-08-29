@@ -2,7 +2,7 @@
 content_type: resource
 description: This file talks about some of the mathematical concepts and Maxwell?s
   equations.
-file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/83a9b66f2896c2bd1568b41bc478fe1c_summary_w01d3.pdf
+file: /ol-ocw-studio-app/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/83a9b66f2896c2bd1568b41bc478fe1c_summary_w01d3.pdf
 file_size: 37733
 file_type: application/pdf
 learning_resource_types:

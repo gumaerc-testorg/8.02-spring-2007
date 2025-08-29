@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is about electric potential, equipotentials.
-file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/0ec98a8ce7e9369f18a726cbe0a745c2_summary_w02d2.pdf
+file: /ol-ocw-studio-app/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/0ec98a8ce7e9369f18a726cbe0a745c2_summary_w02d2.pdf
 file_size: 16968
 file_type: application/pdf
 learning_resource_types: []

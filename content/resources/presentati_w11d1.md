@@ -6,7 +6,7 @@ description: 'This resource includes the following topics:
   simple harmonic motion (demonstration), electronic analog: LC circuits, prs questions:
   LC circuit, adding damping: RLC circuits, experiment 10: part II-RLC circuit, prs
   questions: 2 lab questions'
-file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/a0c9e1a4529a09388c80f78bc62494de_presentati_w11d1.pdf
+file: /ol-ocw-studio-app/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/a0c9e1a4529a09388c80f78bc62494de_presentati_w11d1.pdf
 file_size: 714814
 file_type: application/pdf
 learning_resource_types: []
