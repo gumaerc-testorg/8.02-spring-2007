@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is about Faraday?s Law.
-file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/dd4d04e11900e696ec2895bf4f7df285_summary_w09d1.pdf
+file: /ol-ocw-studio-app/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/dd4d04e11900e696ec2895bf4f7df285_summary_w09d1.pdf
 file_size: 54259
 file_type: application/pdf
 learning_resource_types: []

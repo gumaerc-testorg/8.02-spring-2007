@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/fbe905d3ceb570c67ceb8895da4b47eb_15inductancethumb.jpg
+file: /ol-ocw-studio-app/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/fbe905d3ceb570c67ceb8895da4b47eb_15inductancethumb.jpg
 file_size: 8396
 file_type: image/jpeg
 image_metadata:

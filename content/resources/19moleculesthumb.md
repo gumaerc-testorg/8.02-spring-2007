@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/797938569281147663ffaedc21273334_19moleculesThumb.jpg
+file: /ol-ocw-studio-app/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/797938569281147663ffaedc21273334_19moleculesThumb.jpg
 file_size: 9454
 file_type: image/jpeg
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/c1ef2e99446d7c4255e32752af8f6d26_ch14_inter_diffr.pdf
+file: /ol-ocw-studio-app/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/c1ef2e99446d7c4255e32752af8f6d26_ch14_inter_diffr.pdf
 file_size: 632250
 file_type: application/pdf
 learning_resource_types: []

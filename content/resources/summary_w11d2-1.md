@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is about RC and RL Circuits.
-file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/2c0b66c3395721a0c94db71026dbb3f1_summary_w11d2.pdf
+file: /ol-ocw-studio-app/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/2c0b66c3395721a0c94db71026dbb3f1_summary_w11d2.pdf
 file_size: 47352
 file_type: application/pdf
 learning_resource_types: []

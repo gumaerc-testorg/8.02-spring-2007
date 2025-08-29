@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is about Gauss?s Law.
-file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/1f14654c795599e1cc060d5194060dce_summary_w03d2.pdf
+file: /ol-ocw-studio-app/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/1f14654c795599e1cc060d5194060dce_summary_w03d2.pdf
 file_size: 45865
 file_type: application/pdf
 learning_resource_types: []

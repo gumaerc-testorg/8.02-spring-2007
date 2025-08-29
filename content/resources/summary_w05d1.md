@@ -2,7 +2,7 @@
 content_type: resource
 description: This file discusses circuits, and experiment to see what happens when
   capacitors are included.
-file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/3a01a2caae05db64d9607c7bab977db8_summary_w05d1.pdf
+file: /ol-ocw-studio-app/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/3a01a2caae05db64d9607c7bab977db8_summary_w05d1.pdf
 file_size: 216182
 file_type: application/pdf
 learning_resource_types:

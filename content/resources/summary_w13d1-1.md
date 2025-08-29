@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is about Maxwell?s Equations, EM Radiation & Energy Flow.
-file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/990c4f78f4ec95f77b37dfd1101d2864_summary_w13d1.pdf
+file: /ol-ocw-studio-app/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/990c4f78f4ec95f77b37dfd1101d2864_summary_w13d1.pdf
 file_size: 47569
 file_type: application/pdf
 learning_resource_types: []

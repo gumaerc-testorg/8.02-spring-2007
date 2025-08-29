@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/e9300ba320a31eec9db9e9b9552b4982_15magForceAttThumb.jpg
+file: /ol-ocw-studio-app/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/e9300ba320a31eec9db9e9b9552b4982_15magForceAttThumb.jpg
 file_size: 11177
 file_type: image/jpeg
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains informations about problem solving strategies,
   continuous charge densities and electric field on the axis of a line of charge.
-file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/3eb3a9581f5c96b762e72c5c7e4adf76_solving02.pdf
+file: /ol-ocw-studio-app/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/3eb3a9581f5c96b762e72c5c7e4adf76_solving02.pdf
 file_size: 241300
 file_type: application/pdf
 learning_resource_types: []

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains informations about current carrying coil and loop
   in changing field.
-file: /courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/77ed33994e628863e396d460f9e7c5a2_prs_w09d1_qonly.pdf
+file: /ol-ocw-studio-app/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/77ed33994e628863e396d460f9e7c5a2_prs_w09d1_qonly.pdf
 file_size: 373998
 file_type: application/pdf
 learning_resource_types: []
